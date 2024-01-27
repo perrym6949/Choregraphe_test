@@ -1,0 +1,12 @@
+topic: ~HelloWorld()
+language: enu
+u:(Hello) Hello, I'm excited to work with you today
+u:(Good morning) Good moring! Let's get started on today
+# Defining extra concepts out of words or group of words
+#concept:(hello) [hello hi hey "good morning" greetings]
+
+# Catching inputs and triggering outputs
+#u:(e:onStart) $onStopped=1
+
+# Replying to speech
+#u:(~hello) ~hello
